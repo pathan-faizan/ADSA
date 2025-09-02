@@ -81,7 +81,7 @@ gcc growth_analysis.c -o growth_analysis
 <br>
 <br>
 
-<p">
+<p>
   <img src="images/super polynomial and exponential function.png" alt="super polynomial and exponential function.png" width="600"/>
   <br>
   <em>super polynomial and exponential function</em>
