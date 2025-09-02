@@ -32,31 +32,56 @@ It sorts them by order of growth, identifies pairs of functions with the same as
 
 ---
 
-## How to Run
+##  Requirements
+- **C Compiler** (GCC, MinGW, etc.)  
+- **Gnuplot** (must be installed and accessible in your system PATH)  
 
-You can either **run the provided executable** or **compile the program from source**:
+---
 
-1. Make sure you have installed:
-   - **C Compiler** (gcc, clang, or MSVC)  
-   - **Gnuplot** (needed for plotting)  
+##  How to Run
 
-   📥 Download Gnuplot: [http://www.gnuplot.info/download.html](http://www.gnuplot.info/download.html)
-   
-## Function Comparison Graphs
+You have two options:
 
-<p style="margin: 800px 0;">
+## **Option 1: Run Precompiled Executable**
+If `growth_analysis.exe` is already available:
+```bash
+./growth_analysis.exe
+```
+
+### **Option 2: Compile from Source**
+
+```bash
+git clone https://github.com/pathan-faizan/ADSA.git
+cd Lab 1
+cd Check Growth Function
+
+# Compile
+gcc growth_analysis.c -o growth_analysis
+
+# Run
+./growth_analysis
+
+```
+
+### Graphical Output (Generated via Gnuplot)   
+
+<p>
   <img src="images/Polynomial and log linear function.png" alt="Polynomial and Log-Linear Functions" width="600"/>
   <br>
   <em>Polynomial and Log-Linear Functions</em>
 </p>
+<br>
+<br>
 
-<p style="margin: 800px 0;">
+<p>
   <img src="images/slow growing function.png" alt="slow growing function" width="600"/>
   <br>
   <em>slow growing function</em>
 </p>
+<br>
+<br>
 
-<p style="margin: 800px 0;">
+<p">
   <img src="images/super polynomial and exponential function.png" alt="super polynomial and exponential function.png" width="600"/>
   <br>
   <em>super polynomial and exponential function</em>
