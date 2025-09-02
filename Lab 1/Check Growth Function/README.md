@@ -41,8 +41,24 @@ You can either **run the provided executable** or **compile the program from sou
    - **Gnuplot** (needed for plotting)  
 
    📥 Download Gnuplot: [http://www.gnuplot.info/download.html](http://www.gnuplot.info/download.html)
+   
+## Function Comparison Graphs
 
-![Console Output](images/Polynomial and log linear function.png)
-![Console Output](images/slow growing function.png)
-![Console Output](images/super polynomial and exponential function.png)
+<p>
+  <img src="images/Polynomial and log linear function.png" alt="Polynomial and Log-Linear Functions" width="600"/>
+  <br>
+  <em>Polynomial and Log-Linear Functions</em>
+</p>
+
+<p>
+  <img src="images/slow growing function.png" alt="slow growing function" width="600"/>
+  <br>
+  <em>slow growing function</em>
+</p>
+
+<p>
+  <img src="images/super polynomial and exponential function.png" alt="super polynomial and exponential function.png" width="600"/>
+  <br>
+  <em>super polynomial and exponential function</em>
+</p>
 
