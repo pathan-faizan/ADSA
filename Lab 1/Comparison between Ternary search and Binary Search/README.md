@@ -60,9 +60,9 @@ This way, you can directly see from both the **console output** and the **graph*
 You have two options:
 
 ## **Option 1: Run Precompiled Executable**
-If `search_comparison.exe` is already available:
+If `comparison_counter.exe` is already available:
 ```bash
-./search_comparison.exe
+./comparison_counter.exe
 ```
 
 ### **Option 2: Compile from Source**
@@ -73,10 +73,10 @@ cd Lab 1
 cd Comparison between Ternary search and Binary Search
 
 # Compile
-gcc search_comparison.c -o search_comparison
+gcc comparison_counter.c -o comparison_counter
 
 # Run
-./search_comparison
+./comparison_counter
 
 ```
 
