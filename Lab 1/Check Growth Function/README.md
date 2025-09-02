@@ -42,6 +42,7 @@ You can either **run the provided executable** or **compile the program from sou
 
    📥 Download Gnuplot: [http://www.gnuplot.info/download.html](http://www.gnuplot.info/download.html)
 
-2. If you already have the executable (`program.exe` on Windows or `program` on Linux/macOS), run it directly:
-   ```bash
-   ./program.exe
+![Console Output](images/Polynomial and log linear function.png)
+![Console Output](images/slow growing function.png)
+![Console Output](images/super polynomial and exponential function.png)
+
