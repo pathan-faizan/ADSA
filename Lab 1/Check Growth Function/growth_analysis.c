@@ -80,7 +80,7 @@ int main() {
     };
     int num_functions = sizeof(all_functions) / sizeof(Function);
 
-    double N_LARGE = 500.0; 
+    double N_LARGE = 10000.0; 
     for (int i = 0; i < num_functions - 1; i++) {
         for (int j = 0; j < num_functions - i - 1; j++) {
             double val1 = all_functions[j].func(N_LARGE);
