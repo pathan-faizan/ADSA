@@ -44,19 +44,19 @@ You can either **run the provided executable** or **compile the program from sou
    
 ## Function Comparison Graphs
 
-<p>
+<p style="margin: 800px 0;">
   <img src="images/Polynomial and log linear function.png" alt="Polynomial and Log-Linear Functions" width="600"/>
   <br>
   <em>Polynomial and Log-Linear Functions</em>
 </p>
 
-<p>
+<p style="margin: 800px 0;">
   <img src="images/slow growing function.png" alt="slow growing function" width="600"/>
   <br>
   <em>slow growing function</em>
 </p>
 
-<p>
+<p style="margin: 800px 0;">
   <img src="images/super polynomial and exponential function.png" alt="super polynomial and exponential function.png" width="600"/>
   <br>
   <em>super polynomial and exponential function</em>
