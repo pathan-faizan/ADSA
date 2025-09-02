@@ -15,7 +15,7 @@ It sorts them by order of growth, identifies pairs of functions with the same as
      - a title for Gnuplot  
 
 2. **Sorting by Growth Rate**  
-   - Each function is evaluated at a large value of `n` (`N = 500`).  
+   - Each function is evaluated at a large value of `n` (`N = 10000`).  
    - The results are compared, and functions are sorted in increasing order of growth using bubble sort.  
 
 3. **Θ-Relation Detection**  
