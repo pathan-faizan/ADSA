@@ -44,7 +44,7 @@ Strassen's algorithm is a **divide-and-conquer algorithm** for matrix multiplica
 
 ### **Option 2: Compile from Source**
 ```bash
-git clone https://github.com/your-username/ADSA.git
+git clone https://github.com/pathan-faizan/ADSA.git
 cd "Lab 3/Strassen Multiplication"
 
 # Compile
