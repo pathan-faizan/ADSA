@@ -35,25 +35,6 @@ Strassen's algorithm is a **divide-and-conquer algorithm** for matrix multiplica
 
 ---
 
-## ⚙️ How to Run
-
-### **Option 1: Run Precompiled Executable**
-```bash
-./strassen_multiplication
-```
-
-### **Option 2: Compile from Source**
-```bash
-git clone https://github.com/your-username/ADSA.git
-cd "Lab 3/Strassen Multiplication"
-
-# Compile
-gcc strassen_multiplication.c -o strassen_multiplication -lm
-
-# Run
-./strassen_multiplication
-```
-
 ### Input Example
 ```bash
 Enter size of first matrix (rows cols): 2 2
