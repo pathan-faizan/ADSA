@@ -42,7 +42,7 @@ LUP Decomposition breaks down a matrix A into three matrices: L (lower triangula
 
 ### **Compile from Source**
 ```bash
-git clone https://github.com/your-username/ADSA.git
+git clone https://github.com/pathan-faizan/ADSA.git
 cd "Lab 3/LUP decomposition"
 
 # Compile
