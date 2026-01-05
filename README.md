@@ -1,2 +1,4 @@
 # ADSA
-ADSA Lab – M.Tech CSE, IIIT Bhubaneswar
+
+ADSA Lab,assignment and presentation – M.Tech CSE, IIIT Bhubaneswar
+
